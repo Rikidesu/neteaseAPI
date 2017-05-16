@@ -1,0 +1,14 @@
+{
+  "name": "netease",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Riki",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.81.0"
+  }
+}
